@@ -1,80 +1,15 @@
 # Tags
-## Unorganized
-- [ ] `<a>`
-- [ ] `<audio>`
-- [ ] `<bdi>`
-- [ ] `<bdo>`
-- [ ] `<br>`
-- [ ] `<canvas>`
-- [ ] `<caption>`
-- [ ] `<cite>`
-- [ ] `<code>`
-- [ ] `<comment>`
-- [ ] `<datalist>`
-- [ ] `<details>`
-- [ ] `<dfn>`
-- [ ] `<dialog>`
-- [ ] `<em>`
-- [ ] `<embed>`
-- [ ] `<fieldset>`
-- [ ] `<figcaption>`
-- [ ] `<figure>`
-- [ ] `<hr>`
-- [ ] `<i>`
-- [ ] `<iframe>`
-- [ ] `<img>`
-- [ ] `<input>`
-- [ ] `<input> Types`
-- [ ] `<ins>`
-- [ ] `<kbd>`
-- [ ] `<label>`
-- [ ] `<legend>`
-- [ ] `<main>`
-- [ ] `<map>`
-- [ ] `<mark>`
-- [ ] `<menu>`
-- [ ] `<meta>`
-- [ ] `<meter>`
-- [ ] `<nav>`
-- [ ] `<noscript>`
-- [ ] `<object>`
-- [ ] `<optgroup>`
-- [ ] `<option>`
-- [ ] `<output>`
-- [ ] `<param>`
-- [ ] `<pre>`
-- [ ] `<progress>`
-- [ ] `<q>`
-- [ ] `<rp>`
-- [ ] `<rt>`
-- [ ] `<ruby>`
-- [ ] `<samp>`
-- [ ] `<script>`
-- [ ] `<section>`
-- [ ] `<select>`
-- [ ] `<small>`
-- [ ] `<source>`
-- [ ] `<strong>`
-- [ ] `<style>`
-- [ ] `<sub>`
-- [ ] `<summary>`
-- [ ] `<sup>`
-- [ ] `<time>`
-- [ ] `<tr>`
-- [ ] `<track>`
-- [ ] `<u>`
-- [ ] `<var>`
-- [ ] `<video>`
-- [ ] `<wbr>`
-
 ## Organized
 - Document Scope
 	- [ ] `<html>`
 	- [ ] `<head>`
 	- [ ] `<title>`
-	- [ ] `<link>`
-	- [ ] `<body>`
 	- [ ] `<base>`
+	- [ ] `<meta>`
+	- [ ] `<link>`
+	- [ ] `<style>`
+	- [ ] `<script>`
+	- [ ] `<body>`
 - Basic Block Text
 	- [ ] `<h1>`
 	- [ ] `<h2>`
@@ -84,15 +19,42 @@
 	- [ ] `<h6>`
 	- [ ] `<p>`
 	- [ ] `<blockquote>`
+	- [ ] `<pre>`
 - Semantic In-Line Text
+	- [ ] `<a>`
 	- [ ] `<abbr>`
 	- [ ] `<b>`
+	- [ ] `<cite>`
 	- [ ] `<del>`
+	- [ ] `<ins>`
+	- [ ] `<code>`
+	- [ ] `<dfn>`
+	- [ ] `<em>`
+	- [ ] `<i>`
+	- [ ] `<kbd>`
+	- [ ] `<mark>`
+	- [ ] `<noscript>`
+	- [ ] `<q>`
 	- [ ] `<s>`
+	- [ ] `<samp>`
+	- [ ] `<strong>`
+	- [ ] `<sub>`
+	- [ ] `<sup>`
+	- [ ] `<small>`
+	- [ ] `<time>`
+	- [ ] `<u>`
+	- [ ] `<var>`
+- Page Breaks
+	- [ ] `<br>`
+	- [ ] `<hr>`
+	- [ ] `<wbr>`
 - Document Layout
 	- [ ] `<header>`
 	- [ ] `<footer>`
 	- [ ] `<aside>`
+	- [ ] `<main>`
+	- [ ] `<section>`
+	- [ ] `<nav>`
 	- [ ] `<div>`
 	- [ ] `<span>`
 	- [ ] `<article>`
@@ -104,18 +66,58 @@
 	- [ ] `<li>`
 	- [ ] `<dd>`
 	- [ ] `<dt>`
+- Language
+	- [ ] `<bdi>`
+	- [ ] `<bdo>`
+	- [ ] `<ruby>`
+	- [ ] `<rt>`
+	- [ ] `<rp>`
+- Special
+	- [ ] `<details>`
+	- [ ] `<summary>`
+	- [ ] `<dialog>`
+	- [ ] `<menu>`
 - Forms
 	- [ ] `<form>`
+	- [ ] `<fieldset>`
+	- [ ] `<legend>`
 	- [ ] `<button>`
+	- [ ] `<label>`
+	- [ ] `<input>`
+	- [ ] `<select>`
+	- [ ] `<optgroup>`
+	- [ ] `<option>`
+	- [ ] `<datalist>`
+	- [ ] `<output>`
+	- [ ] `<meter>`
+	- [ ] `<progress>`
 - Tables
+	- [ ] `<caption>`
 	- [ ] `<table>`
 	- [ ] `<thead>`
 	- [ ] `<tbody>`
 	- [ ] `<tfoot>`
 	- [ ] `<th>`
+	- [ ] `<tr>`
 	- [ ] `<td>`
 	- [ ] `<col>`
 	- [ ] `<colgroup>`
+- Multimedia
+	- [ ] `<img>`
+	- [ ] `<picture>`
+	- [ ] `<figure>`
+	- [ ] `<figcaption>`
+	- [ ] `<canvas>`
+	- [ ] `<audio>`
+	- [ ] `<embed>`
+	- [ ] `<video>`
+	- [ ] `<iframe>`
+	- [ ] `<track>`
+	- [ ] `<source>`
+	- [ ] `<object>`
+	- [ ] `<param>`
+	- [ ] `<map>`
+	- [ ] `<area>`
 - Deprecated
 	- [ ] `<acronym> DEPRECATED`
 	- [ ] `<applet> DEPRECATED`

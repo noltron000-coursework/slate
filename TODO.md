@@ -1,5 +1,7 @@
 # List of Tags
 
+See [this google doc](https://docs.google.com/spreadsheets/d/1MGXfFwLsw394u0ITIJDK178U__UqDTkg-M-WLVggedA/edit?usp=sharing)
+
 | tag            | type        | deprecated? | self-enclosed? | description                                                        |
 |:---------------|:------------|:-----------:|:--------------:|:-------------------------------------------------------------------|
 | `<h1>`         | block text  | [ ]         | [ ]            |                                                                    |

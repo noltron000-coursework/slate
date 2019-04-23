@@ -1,229 +1,121 @@
 <!DOCTYPE HTML />
+
+<!-- html, head, & body to start out -->
 <html>
+
 	<head>
-		<title>HTML Tags</title>
-		<script type="text/javascript" src="http://livejs.com/live.js"></script>
+		<title>Slate CSS</title>
+		<base href="./">
+		<link rel="stylesheet" href="./slate.css" />
 	</head>
 
 	<body>
-		<h1>A list of all of the HTML tags.</h1>
+
+		<!-- Basic Block Text -->
+		<h1>Heading 1</h1>
+		<h2>Heading 2</h2>
+		<h3>Heading 3</h3>
+		<h4>Heading 4</h4>
+		<h5>Heading 5</h5>
+		<h6>Heading 6</h6>
+		<p>Paragraph</p>
+		<blockquote>Block Quote</blockquote>
+
+
+		<!-- Layout -->
+		<header>Header</header>
+		<footer>Footer</footer>
+		<aside>Aside</aside>
+		<div>Divider</div>
+		<span>Span</span>
+
+
+		<!-- Lists -->
 		<ul>
-			<li>
-
-				<div class="explain">
-					<h2>Comment Tag</h2>
-					<p>Describes code. Hidden from user.</p>
-				</div>
-
-				<div class="syntax">
-					<code>
-						&lt;!-- ...This is a comment... --&gt;
-					</code>
-				</div>
-
-				<div class="example">
-					<!-- ...This is a comment... -->
-				</div>
-
-			</li>
-			<li>
-
-				<div class="explain">
-					<h2>!DOCTYPE Tag</h2>
-					<p>Defines document type. Hidden from user.</p>
-				</div>
-
-				<div class="syntax">
-					<code>
-						&lt;!DOCTYPE HTML /&gt;
-					</code>
-				</div>
-
-				<div class="example">
-					<!DOCTYPE HTML />
-				</div>
-
-			</li>
-			<li>
-
-				<div class="explain">
-					<h2>Anchor Tags</h2>
-					<p>This tag creates a hyperlink, which redirects to another page on click.</p>
-				</div>
-
-				<div class="syntax">
-					<code>
-						&lt;a href='example.com'&gt;example.com&lt;/a&gt;
-					</code>
-				</div>
-
-				<div class="example">
-					<a href='example.com'>
-						example.com
-					</a>
-				</div>
-
-			</li>
-			<li>
-
-				<div class="explain">
-					<h2>Abbreviation Tag</h2>
-					<p>Defines an acronym or abbreviation.</p>
-				</div>
-
-				<div class="syntax">
-					<code>
-						&lt;abbr&gt;TL;DR&lt;/abbr&gt;
-					</code>
-				</div>
-
-				<div class="example">
-					<abbr>
-						TL;DR
-					</abbr>
-				</div>
-
-			</li>
-			<li>
-
-				<div class="explain">
-					<h2>Address Tag</h2>
-					<p>Defines contact information for author/owner of a document.</p>
-				</div>
-
-				<div class="syntax">
-					<code>
-						&lt;address&gt;555 Post Street&lt;/address&gt;
-					</code>
-				</div>
-
-				<div class="example">
-					<address>
-						555 Post Street
-					</address>
-				</div>
-
-			</li>
-			<li>
-
-				<div class="explain">
-					<h2>Area Tag</h2>
-					<p>Defines an area inside an image-map.</p>
-				</div>
-
-				<div class="syntax">
-					<code>
-						&lt;area&gt;TL;DR&lt;/area&gt;
-					</code>
-				</div>
-
-				<div class="example">
-					<area shape='circle' coords="16,16,64" alt="rip">
-					</area>
-				</div>
-
-			</li>
-			<li>
-
-				<div class="explain">
-					<h2>Article Tag</h2>
-					<p>*NEW* Defines an article.</p>
-				</div>
-
-				<div class="syntax">
-					<code>
-						&lt;article&gt;Rest In Peace&lt;/article&gt;
-					</code>
-				</div>
-
-				<div class="example">
-					<article>
-						Rest In Peace
-					</article>
-				</div>
-
-			</li>
-			<li>
-
-				<div class="explain">
-					<h2>Aside Tag</h2>
-					<p>*NEW* Defines content to the side of the page content.</p>
-				</div>
-
-				<div class="syntax">
-					<code>
-						&lt;aside&gt;I'm on the side.&lt;/aside&gt;
-					</code>
-				</div>
-
-				<div class="example">
-					<aside>
-						I'm on the side.
-					</aside>
-				</div>
-
-			</li>
-			<li>
-
-				<div class="explain">
-					<h2>Audio Tag</h2>
-					<p>*NEW* Defines sound content.</p>
-				</div>
-
-				<div class="syntax">
-					<code>
-						&lt;audio&gt;I'm Music!&lt;/audio&gt;
-					</code>
-				</div>
-
-				<div class="example">
-					<audio src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Test_ogg_mp3_48kbps.wav" type="audio/wav" controls>
-						I'm Music!
-					</audio>
-				</div>
-
-			</li>
-			<li>
-
-				<div class="explain">
-					<h2>Bold Tag</h2>
-					<p>Defines bold text.</p>
-				</div>
-
-				<div class="syntax">
-					<code>
-						&lt;b&gt;I'm bold and daring.&lt;/b&gt;
-					</code>
-				</div>
-
-				<div class="example">
-					<b>
-						I'm bold and daring.
-					</b>
-				</div>
-
-			</li>
-			<li>
-
-				<div class="explain">
-					<h2>Base Tag</h2>
-					<p>specificies the base url/target for all relative urls in a document.</p>
-				</div>
-
-				<div class="syntax">
-					<code>
-						&lt;b&gt;I'm bold and daring.&lt;/b&gt;
-					</code>
-				</div>
-
-				<div class="example">
-					<b>
-						I'm bold and daring.
-					</b>
-				</div>
-
-			</li>
-
+			<li>Banana</li>
+			<li>Chocolate</li>
+			<li>Coffee</li>
+			<li>Honey</li>
+			<li>Vanilla</li>
+			<li>Milk</li>
 		</ul>
+
+		<ol>
+			<li>Banana</li>
+			<li>Chocolate</li>
+			<li>Coffee</li>
+			<li>Honey</li>
+			<li>Vanilla</li>
+			<li>Milk</li>
+		</ol>
+
+		<dl>
+			<dd>Banana</dd>
+			<dt>A yellow, curved fruit. It is slightly sweet to the taste.</dt>
+			<dd>Coffee</dd>
+			<dt>A fruiting bean plant used to make a hot, bitter beverage.</dt>
+			<dd>Honey</dd>
+			<dt>A thick, amber liquid made by bees to survive through winter.</dt>
+		</dl>
+
+
+		<!-- Forms -->
+		<form>Form</form>
+
+
+		<!-- Tables -->
+		<table>
+			<colgroup>
+				<col />
+				<col />
+				<col />
+			</colgroup>
+
+			<thead>
+				<tr>
+					<th>id</th>
+					<th>name</th>
+					<th>role</th>
+				</tr>
+			</thead>
+
+			<tbody>
+				<tr>
+					<td>0</td>
+					<td>Undefined</td>
+					<td>Null</td>
+				</tr>
+				<tr>
+					<td>1</td>
+					<td>Jane</td>
+					<td>Programmer</td>
+				</tr>
+				<tr>
+					<td>2</td>
+					<td>John</td>
+					<td>Designer</td>
+				</tr>
+				<tr>
+					<td>3</td>
+					<td>Jeff</td>
+					<td>Engineer</td>
+				</tr>
+				<tr>
+					<td>4</td>
+					<td>Jess</td>
+					<td>Scientist</td>
+				</tr>
+			</tbody>
+
+			<tfoot>
+				<tr>
+					<th>10</th>
+					<th>Everyone!</th>
+					<th>Everything!</th>
+				</tr>
+			</tfoot>
+		</table>
+
 	</body>
+
 </html>

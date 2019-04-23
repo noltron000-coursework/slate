@@ -1,0 +1,133 @@
+# Tags
+## Unorganized
+- [ ] `<a>`
+- [ ] `<audio>`
+- [ ] `<bdi>`
+- [ ] `<bdo>`
+- [ ] `<br>`
+- [ ] `<canvas>`
+- [ ] `<caption>`
+- [ ] `<cite>`
+- [ ] `<code>`
+- [ ] `<comment>`
+- [ ] `<datalist>`
+- [ ] `<details>`
+- [ ] `<dfn>`
+- [ ] `<dialog>`
+- [ ] `<em>`
+- [ ] `<embed>`
+- [ ] `<fieldset>`
+- [ ] `<figcaption>`
+- [ ] `<figure>`
+- [ ] `<hr>`
+- [ ] `<i>`
+- [ ] `<iframe>`
+- [ ] `<img>`
+- [ ] `<input>`
+- [ ] `<input> Types`
+- [ ] `<ins>`
+- [ ] `<kbd>`
+- [ ] `<label>`
+- [ ] `<legend>`
+- [ ] `<main>`
+- [ ] `<map>`
+- [ ] `<mark>`
+- [ ] `<menu>`
+- [ ] `<meta>`
+- [ ] `<meter>`
+- [ ] `<nav>`
+- [ ] `<noscript>`
+- [ ] `<object>`
+- [ ] `<optgroup>`
+- [ ] `<option>`
+- [ ] `<output>`
+- [ ] `<param>`
+- [ ] `<pre>`
+- [ ] `<progress>`
+- [ ] `<q>`
+- [ ] `<rp>`
+- [ ] `<rt>`
+- [ ] `<ruby>`
+- [ ] `<samp>`
+- [ ] `<script>`
+- [ ] `<section>`
+- [ ] `<select>`
+- [ ] `<small>`
+- [ ] `<source>`
+- [ ] `<strong>`
+- [ ] `<style>`
+- [ ] `<sub>`
+- [ ] `<summary>`
+- [ ] `<sup>`
+- [ ] `<time>`
+- [ ] `<tr>`
+- [ ] `<track>`
+- [ ] `<u>`
+- [ ] `<var>`
+- [ ] `<video>`
+- [ ] `<wbr>`
+
+## Organized
+- Document Scope
+	- [ ] `<html>`
+	- [ ] `<head>`
+	- [ ] `<title>`
+	- [ ] `<link>`
+	- [ ] `<body>`
+	- [ ] `<base>`
+- Basic Block Text
+	- [ ] `<h1>`
+	- [ ] `<h2>`
+	- [ ] `<h3>`
+	- [ ] `<h4>`
+	- [ ] `<h5>`
+	- [ ] `<h6>`
+	- [ ] `<p>`
+	- [ ] `<blockquote>`
+- Semantic In-Line Text
+	- [ ] `<abbr>`
+	- [ ] `<b>`
+	- [ ] `<del>`
+	- [ ] `<s>`
+- Document Layout
+	- [ ] `<header>`
+	- [ ] `<footer>`
+	- [ ] `<aside>`
+	- [ ] `<div>`
+	- [ ] `<span>`
+	- [ ] `<article>`
+	- [ ] `<address>`
+- Lists
+	- [ ] `<ul>`
+	- [ ] `<ol>`
+	- [ ] `<dl>`
+	- [ ] `<li>`
+	- [ ] `<dd>`
+	- [ ] `<dt>`
+- Forms
+	- [ ] `<form>`
+	- [ ] `<button>`
+- Tables
+	- [ ] `<table>`
+	- [ ] `<thead>`
+	- [ ] `<tbody>`
+	- [ ] `<tfoot>`
+	- [ ] `<th>`
+	- [ ] `<td>`
+	- [ ] `<col>`
+	- [ ] `<colgroup>`
+- Deprecated
+	- [ ] `<acronym> DEPRECATED`
+	- [ ] `<applet> DEPRECATED`
+	- [ ] `<basefont> DEPRECATED`
+	- [ ] `<big> DEPRECATED`
+	- [ ] `<center> DEPRECATED`
+	- [ ] `<dir> DEPRECATED`
+	- [ ] `<font> DEPRECATED`
+	- [ ] `<frame> DEPRECATED`
+	- [ ] `<frameset> DEPRECATED`
+	- [ ] `<keygen> DEPRECATED`
+	- [ ] `<menuitem> DEPRECATED`
+	- [ ] `<noframes> DEPRECATED`
+	- [ ] `<strike> DEPRECATED`
+	- [ ] `<tt> DEPRECATED`

@@ -1,6 +1,7 @@
 # List of Tags
+
 | tag            | type       | deprecated? | self-enclosed? | description                                                  |
-|-:--------------|-:----------|-:-:---------|-:-:------------|-:------------------------------------------------------------|
+|:---------------|:-----------|:-----------:|:--------------:|:-------------------------------------------------------------|
 | `<a>`          | in-line    | [ ]         | [ ]            | anchor - links to another page                               |
 | `<abbr>`       | in-line    | [ ]         | [ ]            | abbreviation - used with its definition as an attribute      |
 | `<acronym>`    | in-line    | [x]         | [ ]            | (use abbr instead)                                           |
